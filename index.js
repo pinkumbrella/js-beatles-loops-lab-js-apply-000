@@ -16,7 +16,7 @@ function johnLennonFacts(jlFacts) {
   return myArr
 }
 
-iLoveTheBeatles(num) {
+function iLoveTheBeatles(num) {
   var myArry = []
   
 }
